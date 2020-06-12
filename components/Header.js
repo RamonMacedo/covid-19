@@ -20,6 +20,6 @@ const Logo = styled.header`
 export default function Header() {
     return <Logo>
         <img src={logo} alt="Covid-19" />
-        COVID-19
+        COVID-18
     </Logo>
 }
